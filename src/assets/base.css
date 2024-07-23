@@ -1,0 +1,17 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    font-weight: normal;
+}
+
+
+button {
+    cursor: pointer;
+}
+
+input, select {
+    height: 41px;
+    padding: 10px;
+}
